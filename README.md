@@ -7,6 +7,7 @@ This project demonstrates foundational frontend principles including proper head
 ## Repository Link
 You can view or clone the complete source code template directly at the official repository here:
 👉 **[GitHub CV Template Repository](https://github.com/juanne-asabah/single-page-cv)**
+URL; https://github.com/juanne-asabah/single-page-cv
 
 ## ✨ Core Features & Technical Elements Included
 * **Semantic HTML5 Architecture**: Implements modern document structure standards using proper tags like `<article>`, `<div>` groupings, and separate inline `<address>` layouts.
