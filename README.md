@@ -5,7 +5,7 @@ A clean, semantic, and highly optimized single-page digital CV built explicitly 
 This repository serves as a fully functional solution to the foundational frontend challenge hosted on roadmap.sh.
 
 ## 🔗 Project Connections
-- **Project URL (Challenge Page):** https://roadmap.sh
+- **Project URL (Challenge Page):** https://roadmap.sh/projects/single-page-cv
 - **Live Preview URL:** https://github.io
 - **GitHub Code Repository:** https://github.com
 
