@@ -8,6 +8,7 @@ This repository serves as a fully functional solution to the foundational fronte
 - **Project URL (Challenge Page):** https://roadmap.sh/projects/single-page-cv
 - **Live Preview URL:** https://github.io
 - **GitHub Code Repository:** https://github.com
+- **Sharable Project Link:** https://roadmap.sh/projects/single-page-cv/solutions?u=6aaee5a3921df572a9f008d0
 
 ---
 
